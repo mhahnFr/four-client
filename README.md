@@ -1,5 +1,5 @@
 # Welcome to the Four-Client!
-This repository contains the client ``JAR``s of [nijakow's four](https:www.github.com/nijakow/four).
+This repository contains the client ``JAR``s of [nijakow's four](https://www.github.com/nijakow/four).
 
 If you want to visit the world of [four], simply download and launch the newest `jar`-file.
 
